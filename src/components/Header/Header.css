@@ -1,0 +1,7 @@
+.header a {
+  font-size: larger;
+  text-decoration: none;
+  font-weight: 500;
+  color: darkslategrey;
+  margin-left: 15px;
+}
